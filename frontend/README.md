@@ -4,9 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In the "backend" directory, first run
+###  `npm init -y`
+### `npm install express mysql2 cors dotenv`
+
+In the "frontend" directory, first run
+### `npm install tailwindcss postcss autoprefixer axios react-router-dom react-datepicker xlsx`
+### `npx tailwindcss init`
+
 In the project directory, you can run:
 
 ### `npm start`
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
